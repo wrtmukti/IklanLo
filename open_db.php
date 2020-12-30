@@ -2,7 +2,7 @@
 	$hostname = "localhost";
 	$username = "root";
 	$password = "";
-	$database = "olx-kw";
+	$database = "iklanlo";
 
 	$conn = mysqli_connect($hostname,$username,$password,$database);
 

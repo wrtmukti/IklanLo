@@ -1,6 +1,6 @@
 <?php 
 	session_start();
-	$query = new mysqli('localhost','root','','olx-kw');
+	$query = new mysqli('localhost','root','','iklanlo');
 
 	$username_user = $_POST['username_user'];
 	$pass_user = $_POST['pass_user'];
