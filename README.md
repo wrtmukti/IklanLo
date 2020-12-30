@@ -1,4 +1,4 @@
 # IklanLo
-
-project menggunakan php native
-framework css bootstrap v4
+-adalah aplikasi unuk mengiklankan barang yg ingin user jual seperti OLX
+-project ini menggunakan php native
+-framework css bootstrap v4
